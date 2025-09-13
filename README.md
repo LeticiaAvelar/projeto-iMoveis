@@ -5,8 +5,8 @@ Projeto front-end construído como parte do mini-curso de imersão no Bootstrap 
 
 Aqui você pode conferir a primeira tela do projeto, que apresenta a estrutura e o layout criados durante o desenvolvimento. O design foi pensado para ser simples e funcional, com foco na apresentação das informações e responsividade.
 
-![image](<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/a28f5c8d-6e8f-4456-845c-814cdb64b155" />)
-![image](<img width="399" height="993" alt="image" src="https://github.com/user-attachments/assets/a8384e70-b7e1-4037-acda-2098d5fcad2e" />)
+![image](https://github.com/user-attachments/assets/a28f5c8d-6e8f-4456-845c-814cdb64b155)
+![image](https://github.com/user-attachments/assets/a8384e70-b7e1-4037-acda-2098d5fcad2e)
 
 ## ⚙️ Tecnologias utilizadas
 
