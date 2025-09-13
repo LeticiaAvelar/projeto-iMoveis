@@ -6,9 +6,11 @@ Projeto front-end construído como parte do mini-curso de imersão no Bootstrap 
 Aqui você pode conferir a primeira tela do projeto, que apresenta a estrutura e o layout criados durante o desenvolvimento. O design foi pensado para ser simples e funcional, com foco na apresentação das informações e responsividade.
 
 O layout foi pensado no Mobile First:
+
 ![image](https://github.com/user-attachments/assets/a8384e70-b7e1-4037-acda-2098d5fcad2e)
 
 Mas também se adapta perfeitamente ao desktop:
+
 ![image](https://github.com/user-attachments/assets/a28f5c8d-6e8f-4456-845c-814cdb64b155)
 
 ## ⚙️ Tecnologias utilizadas
